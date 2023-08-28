@@ -3,9 +3,9 @@
 
 ---
 ## Description:
-Vincent of Mintarn is a grifter at heart, a Mintarn born street urchin that has evolved their game to the highest level after years of studying everything from far-off royalty to the pirate lords that come to trade and bargian in Mintarn.
+Vincent of Mintarn is a grifter at heart, a Mintarn born street urchin that has evolved their game to the highest level after years of studying everything from far-off royalty to the pirate lords that come to trade and bargain in Mintarn.
 After a scam gone wrong (which involved the awakening of his latent sorcerer abilities) Vicent has fled Mintarn and now poses as pseudo-royalty, often found regaling false tales of being born to the inventors of famous ales, lagers, or even a distant relative of the current Tarnian Tyrant.
-Vincent is still a novice sorcerer, still working to come to terms with his newfound ability, and wrapping his mind around the arcane as a whole.
+Vincent is still a novice sorcerer, working to come to terms with his newfound ability, and wrapping his mind around the arcane as a whole.
 
 ---
 ## Motivations:
